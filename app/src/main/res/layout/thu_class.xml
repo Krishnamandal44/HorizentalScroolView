@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="150dp"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:id="@+id/tv_thu_1stclass"
+            android:background="@color/color7"
+            android:textColor="#ffffff"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:text="Mathematics"/>
+        <ImageView
+            android:layout_width="2dp"
+            android:layout_height="50dp" />
+        <TextView
+            android:layout_width="150dp"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:id="@+id/tv_thu_2ndclass"
+            android:background="@color/color4"
+            android:textColor="#ffffff"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:text="English"/>
+        <ImageView
+            android:layout_width="2dp"
+            android:layout_height="50dp" />
+        <TextView
+            android:layout_width="150dp"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:id="@+id/tv_thu_3rdclass"
+            android:background="@color/color13"
+            android:textColor="#ffffff"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:text="Physics"/>
+        <ImageView
+            android:layout_width="2dp"
+            android:layout_height="50dp" />
+        <TextView
+            android:layout_width="150dp"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:id="@+id/tv_thu_4thclass"
+            android:background="@color/color10"
+            android:textColor="#ffffff"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:text="Chemistry"/>
+        <ImageView
+            android:layout_width="2dp"
+            android:layout_height="50dp" />
+        <TextView
+            android:layout_width="150dp"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:id="@+id/tv_thu_5thclass"
+            android:background="@color/color5"
+            android:textColor="#ffffff"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:text="Break"/>
+        <ImageView
+            android:layout_width="2dp"
+            android:layout_height="50dp" />
+        <TextView
+            android:layout_width="150dp"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:id="@+id/tv_thu_6thclass"
+            android:background="@color/color8"
+            android:textColor="#ffffff"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:text="Bangali"/>
+        <ImageView
+            android:layout_width="2dp"
+            android:layout_height="50dp" />
+        <TextView
+            android:layout_width="150dp"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:id="@+id/tv_thu_7thclass"
+            android:background="@color/color11"
+            android:textColor="#ffffff"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:text="Geography"/>
+        <ImageView
+            android:layout_width="2dp"
+            android:layout_height="50dp" />
+        <TextView
+            android:layout_width="150dp"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:id="@+id/tv_thu_8thclass"
+            android:background="@color/color2"
+            android:textColor="#ffffff"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:text="History"/>
+        <ImageView
+            android:layout_width="2dp"
+            android:layout_height="50dp" />
+
+    </LinearLayout>
+
+</LinearLayout>
